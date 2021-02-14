@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LoginFirebase</string>
+    <string name="authentication_app">Authentication App</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="full_name">Full Name</string>
+    <string name="email_id">Email id</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="already_registered_login_here">Already Registered? Login Here</string>
+    <string name="phone">Phone</string>
+    <string name="welcome_to_my_page">Welcome to my page!</string>
+    <string name="sign_out">Sign Out</string>
+
+    <string name="log_in_into_account">Log in into Account</string>
+
+    <string name="new_here_create_account">New Here? Create Account</string>
+</resources>
